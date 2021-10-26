@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_TMT5gTYAEey5kNaO9ZEVMA" label="P7" language="java" technicalLabel="P7" author="_TMT5gjYAEey5kNaO9ZEVMA" productVersion="Talend Cloud Big Data Platform-8.0.1.20211021_1130" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;git@github.com:YaoTalend/P7-public.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" bigData="false">
+    <migrationTask xmi:id="_TNLcMDYAEey5kNaO9ZEVMA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_TMT5gjYAEey5kNaO9ZEVMA" login="lyao@yao03.talend.com" firstName="yao03" lastName="lyao" type="DQ"/>
+</xmi:XMI>
